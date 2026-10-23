@@ -533,8 +533,8 @@ CareerPilot AI demonstrates several practical software-engineering concepts:
 ## 👨‍💻 About the Developer
 
 <p align="center">
-  <b>Ashfaque Ahmed</b><br/>
-  Software Engineering Student | AI & Software Development
+  <b>Niaz Gul</b><br/>
+Software Engineering Student | Cybersecurity Enthusiast
 </p>
 
 <p align="center">
