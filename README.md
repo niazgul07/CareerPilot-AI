@@ -537,16 +537,16 @@ CareerPilot AI demonstrates several practical software-engineering concepts:
 Software Engineering Student | Cybersecurity Enthusiast
 </p>
 
+
 <p align="center">
-  <a href="https://github.com/ashfaque-ahmed78">
-    <img src="https://img.shields.io/badge/GitHub-ashfaque--ahmed78-181717?style=for-the-badge&logo=github" alt="GitHub profile"/>
+  <a href="https://github.com/niazgul07">
+    <img src="https://img.shields.io/badge/GitHub-niazgul07-181717?style=for-the-badge&logo=github" alt="GitHub profile"/>
   </a>
-  <a href="https://github.com/ashfaque-ahmed78/CareerPilot-AI">
+  <a href="https://github.com/niazgul07/CareerPilot-AI">
     <img src="https://img.shields.io/badge/Project-CareerPilot%20AI-4338CA?style=for-the-badge" alt="CareerPilot AI repository"/>
   </a>
 </p>
 
----
 
 <p align="center">
   <b>Navigate your career with clearer insights, practical feedback, and informed next steps.</b>
