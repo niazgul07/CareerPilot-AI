@@ -18,7 +18,7 @@
 
 <p align="center">
   <a href="https://github.com/niazgul07">Developer Profile</a> •
-  <a href="https://github.com/ashfaque-ahmed78/CareerPilot-AI">GitHub Repository</a>
+  <a href="https://github.com/niazgul07/CareerPilot-AI">GitHub Repository</a>
 </p>
 
 ---
