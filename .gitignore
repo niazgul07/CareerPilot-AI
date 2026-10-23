@@ -1,0 +1,13 @@
+.env
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.streamlit/secrets.toml
+careerpilot_history.db
+careerpilot_history.db-shm
+careerpilot_history.db-wal
+.env
+.venv/
+__pycache__/
+*.pyc
